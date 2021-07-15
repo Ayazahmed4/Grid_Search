@@ -1,3 +1,3 @@
 # Grid_Search
 
-Using sklearn GridSearchCV for hyperparameter search
+Using sklearn GridSearchCV and RondomizedSearchCV for hyperparameter search
